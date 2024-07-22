@@ -1,7 +1,6 @@
 {
-    "message": "Result of type ekonomi news in Antara News",
-    "total": 20,
-    "status": 200,
+    "rc": 200,
+    "message": "Success",
     "data": [
       {
         "title": "Limit transfer BCA terbaru 2024, berdasarkan jenis kartu",
