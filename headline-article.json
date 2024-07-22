@@ -1,1 +1,19 @@
-
+{
+    "rc": 200,
+    "message": "Success",
+    "data": [
+    {
+      "title": "Daftar kota dengan biaya hidup termurah di Indonesia",
+      "link": "https://www.antaranews.com/berita/4191375/daftar-kota-dengan-biaya-hidup-termurah-di-indonesia",
+      "isoDate": "2024-07-10T11:54:29.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2024/07/02/manufaktur.jpg",
+      "description": "Salah satu pertimbangan penting bagi para pekerja dan pelajar yang memilih untuk tinggal di suatu kota adalah biaya"
+    },
+    {
+      "title": "Arti warna rambu lalu lintas dan kegunaannya",
+      "link": "https://otomotif.antaranews.com/berita/4190070/arti-warna-rambu-lalu-lintas-dan-kegunaannya",
+      "isoDate": "2024-07-09T15:48:16.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2022/09/05/antarafoto-pengerjaan-revitalisasi-halte-transjakarta-50922-rn-1.jpg",
+      "description": "Warna rambu lalu lintas dibuat berbeda sesuai peruntukannya, dan masing-masing warna digunakan untuk petunjuk yang"
+    }
+}
