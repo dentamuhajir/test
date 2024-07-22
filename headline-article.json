@@ -1,6 +1,6 @@
 {
-    "rc": 500,
-    "message": "Internal Server Error", 
+    "rc": 200,
+    "message": "Success", 
     "data": [ 
         {
           "title": "Daftar kota dengan biaya hidup termurah di Indonesia",
