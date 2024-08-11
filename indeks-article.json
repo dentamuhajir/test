@@ -1,0 +1,319 @@
+{
+  "status": "OK",
+  "message": "Success",
+  "data": [
+    {
+      "categoryId": "1",
+      "categoryName": "Griya",
+      "articleItemList": [
+        {
+          "articleId": "01J4RDW20M66S1NRPDS9FVJY0S",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Aspek Hukum yang Perlu Diperhatikan Saat Membeli Rumah",
+          "content": "Sebelum memutuskan membeli rumah, penting untuk memahami aspek hukum yang terkait. Artikel ini akan membahas hal-hal penting yang perlu Anda perhatikan.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Timbangan keadilan",
+          "tags": "hukum;properti;perlindungan"
+        },
+        {
+          "articleId": "01J4RDTQXTRGAS7NNPKD7Z33JD",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Biaya Tersembunyi KPR yang Perlu Anda Tahu",
+          "content": "Selain angsuran pokok dan bunga, ada beberapa biaya tambahan yang perlu Anda siapkan saat mengajukan KPR. Artikel ini akan mengungkap biaya-biaya tersebut.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Ilustrasi uang koin dan kertas",
+          "tags": "KPR;biaya;tambahan"
+        },
+        {
+          "articleId": "01J4RDWY8NHW6RB8NV64VTZDD7",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Hindari Masalah Ini Saat Membeli Rumah",
+          "content": "Ada beberapa masalah yang sering terjadi saat membeli rumah. Artikel ini akan mengungkap masalah-masalah tersebut dan cara mengantisipasinya.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Ilustrasi tanda tanya besar",
+          "tags": "masalah;rumah;permasalahan"
+        },
+        {
+          "articleId": "01J4RDV58DJYD3WYSS35HTBBJH",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Investasi Properti: Untung atau Buntung?",
+          "content": "Membeli rumah tidak hanya untuk tempat tinggal, tetapi juga bisa menjadi investasi. Artikel ini akan membahas potensi keuntungan dan risiko investasi properti.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Grafik pertumbuhan nilai properti",
+          "tags": "properti;investasi;keuntungan"
+        },
+        {
+          "articleId": "01J4RDWNC24R4M0PHX56SCX7JY",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Memilih Developer yang Tepat: Perbandingan dan Tips",
+          "content": "Memilih developer yang terpercaya sangat penting untuk memastikan kualitas rumah yang Anda beli. Artikel ini akan membantu Anda memilih developer yang tepat.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Logo berbagai developer properti",
+          "tags": "developer;perbandingan;pemilihan"
+        },
+        {
+          "articleId": "01J4RDVRHPVWE4E004D85CPDGS",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Mengenal KPR Syariah: Kelebihan dan Kekurangannya",
+          "content": "Bagi Anda yang ingin memiliki rumah dengan prinsip syariah, artikel ini akan menjelaskan secara detail tentang KPR syariah.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Ilustrasi rumah dengan kubah masjid",
+          "tags": "KPR;syariah;prinsip"
+        },
+        {
+          "articleId": "01J4RDSYT7JACEN5S010HMTBV0",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Panduan Lengkap Pengajuan KPR",
+          "content": "Mulai dari pemilihan bank hingga persiapan dokumen, artikel ini akan memandu Anda melalui proses pengajuan KPR secara detail.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Seseorang sedang mengisi formulir pengajuan KPR",
+          "tags": "KPR;pengajuan;panduan"
+        },
+        {
+          "articleId": "01J4RDTE2PG8DPHKWQNZJSEYX9",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Pilih Mana? Perbandingan Jenis KPR",
+          "content": "Bingung memilih antara KPR fixed rate atau floating rate? Artikel ini akan mengulas kelebihan dan kekurangan masing-masing jenis.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Grafik perbandingan jenis KPR",
+          "tags": "KPR;jenis;perbandingan"
+        },
+        {
+          "articleId": "01J4RDVEMHRT8MAG3MSDWBYAEC",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Tips Menabung Cepat untuk DP Rumah",
+          "content": "Memiliki dana DP yang cukup adalah langkah pertama untuk memiliki rumah. Artikel ini akan memberikan tips-tips efektif untuk menabung secara cepat.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Celengan berisi uang logam",
+          "tags": "tabungan;DP;rumah"
+        },
+        {
+          "articleId": "01J4RDWBHYRC2K0PJZGY9NGFYV",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Tips Merawat Rumah Baru Agar Awet",
+          "content": "Memiliki rumah baru adalah kebahagiaan tersendiri. Agar rumah tetap terawat dengan baik, artikel ini akan memberikan tips perawatan yang perlu Anda lakukan.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Seseorang sedang membersihkan jendela",
+          "tags": "rumah;perawatan;tips"
+        }
+      ]
+    },
+    {
+      "categoryId": "2",
+      "categoryName": "Hasanah",
+      "articleItemList": [
+        {
+          "articleId": "01J4RED8M53X0A2R2MV0MNPXNF",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Keutamaan Bersedekah: Investasi Terbaik di Akhirat",
+          "content": "Sedekah adalah salah satu bentuk hasanah yang paling utama. Artikel ini akan mengulas keutamaan bersedekah, jenis-jenis sedekah, dan dampaknya bagi kehidupan.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Tangan memberikan uang kepada orang yang membutuhkan",
+          "tags": "hasanah;sedekah;keutamaan"
+        },
+        {
+          "articleId": "01J4RECNW151Y4YPQJYERJFPJB",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Memahami Konsep Hasanah dalam Islam",
+          "content": "Hasanah adalah istilah dalam Islam yang merujuk pada segala sesuatu yang baik dan bermanfaat. Artikel ini akan membahas secara mendalam tentang pengertian hasanah, jenis-jenis hasanah, dan bagaimana cara meraihnya.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Ilustrasi pohon yang berbuah lebat",
+          "tags": "hasanah;Islam;konsep"
+        },
+        {
+          "articleId": "01J4REDV395QXNY6ZM2DBR8Q5F",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Membangun Hasanah dalam Hubungan dengan Sesama",
+          "content": "Hubungan yang baik dengan sesama manusia adalah bagian penting dari kehidupan. Artikel ini akan membahas bagaimana cara membangun hubungan yang harmonis dan penuh kasih sayang.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Sekelompok orang sedang berjabat tangan",
+          "tags": "hasanah;hubungan;sosial"
+        },
+        {
+          "articleId": "01J4REE4H9EPD4199RAFW3YVVS",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Membina Keluarga Sakinah Mawaddah Warahmah",
+          "content": "Keluarga adalah surga dunia. Artikel ini akan membahas bagaimana cara membina keluarga yang sakinah, mawaddah, warahmah, dan penuh berkah.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Keluarga sedang berkumpul",
+          "tags": "hasanah;keluarga;sakinah"
+        },
+        {
+          "articleId": "01J4REDJ7CZ54JSSM4CSHP2YJ2",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Mencari Ridha Allah Melalui Amal Saleh",
+          "content": "Amal saleh adalah segala perbuatan baik yang dilakukan dengan ikhlas karena Allah. Artikel ini akan membahas berbagai macam amal saleh yang dapat kita lakukan untuk meraih hasanah.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Orang sedang sholat",
+          "tags": "hasanah;amal;saleh"
+        },
+        {
+          "articleId": "01J4REF201D94MW6Y56KCWHZ3P",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Menebar Hasanah di Lingkungan Kerja",
+          "content": "Lingkungan kerja yang harmonis dapat meningkatkan produktivitas dan kebahagiaan. Artikel ini akan memberikan tips untuk menebar kebaikan di tempat kerja.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Orang-orang sedang bekerja sama",
+          "tags": "hasanah;kerja;lingkungan"
+        },
+        {
+          "articleId": "01J4REGV1EAYP35XDSNDC6GAWF",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Mensyukuri Nikmat Allah: Kunci Kebahagiaan Dunia Akhirat",
+          "content": "Syukur adalah bentuk pengakuan atas segala nikmat yang Allah berikan. Artikel ini akan membahas keutamaan bersyukur dan cara mensyukuri nikmat Allah.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Tangan terangkat ke langit",
+          "tags": "hasanah;syukur;nikmat"
+        },
+        {
+          "articleId": "01J4REFKC4V58VNYPFQ944FYQA",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Menuntut Ilmu: Investasi Terbaik untuk Akhirat",
+          "content": "Menuntut ilmu adalah ibadah. Artikel ini akan membahas keutamaan menuntut ilmu dan bagaimana ilmu dapat membawa kita pada kebaikan.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Buku-buku dan alat tulis",
+          "tags": "hasanah;ilmu;pengetahuan"
+        },
+        {
+          "articleId": "01J4REGAMXS2012RSKCC02JQ1K",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Sabar: Kunci Menuju Kebahagiaan",
+          "content": "Sabar adalah sifat terpuji yang dapat membawa kita pada kebaikan. Artikel ini akan membahas keutamaan sabar dan bagaimana cara melatih kesabaran.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Orang sedang berdoa",
+          "tags": "hasanah;sabar;kebahagiaan"
+        },
+        {
+          "articleId": "01J4REJEMW8YJQ11F00FDQTTRN",
+          "makerId": "denta",
+          "approverId": "farhan",
+          "title": "Zakat: Fardhu yang Membersihkan Harta",
+          "content": "Zakat adalah salah satu rukun Islam yang sangat penting. Artikel ini akan membahas hukum zakat, jenis-jenis zakat, dan manfaatnya bagi individu dan masyarakat.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Orang sedang memberikan zakat",
+          "tags": "hasanah;zakat;harta"
+        }
+      ]
+    },
+    {
+      "categoryId": "3",
+      "categoryName": "Mitraguna",
+      "articleItemList": []
+    },
+    {
+      "categoryId": "4",
+      "categoryName": "Gadai Emas",
+      "articleItemList": []
+    },
+    {
+      "categoryId": "5",
+      "categoryName": "Cicil Emas",
+      "articleItemList": []
+    },
+    {
+      "categoryId": "6",
+      "categoryName": "Terbaru",
+      "articleItemList": [
+        {
+          "articleId": "01J4RDSYT7JACEN5S010HMTBV0",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Panduan Lengkap Pengajuan KPR",
+          "content": "Mulai dari pemilihan bank hingga persiapan dokumen, artikel ini akan memandu Anda melalui proses pengajuan KPR secara detail.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Seseorang sedang mengisi formulir pengajuan KPR",
+          "tags": "KPR;pengajuan;panduan"
+        },
+        {
+          "articleId": "01J4RDTE2PG8DPHKWQNZJSEYX9",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Pilih Mana? Perbandingan Jenis KPR",
+          "content": "Bingung memilih antara KPR fixed rate atau floating rate? Artikel ini akan mengulas kelebihan dan kekurangan masing-masing jenis.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Grafik perbandingan jenis KPR",
+          "tags": "KPR;jenis;perbandingan"
+        },
+        {
+          "articleId": "01J4RDTQXTRGAS7NNPKD7Z33JD",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Biaya Tersembunyi KPR yang Perlu Anda Tahu",
+          "content": "Selain angsuran pokok dan bunga, ada beberapa biaya tambahan yang perlu Anda siapkan saat mengajukan KPR. Artikel ini akan mengungkap biaya-biaya tersebut.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Ilustrasi uang koin dan kertas",
+          "tags": "KPR;biaya;tambahan"
+        },
+        {
+          "articleId": "01J4RDV58DJYD3WYSS35HTBBJH",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Investasi Properti: Untung atau Buntung?",
+          "content": "Membeli rumah tidak hanya untuk tempat tinggal, tetapi juga bisa menjadi investasi. Artikel ini akan membahas potensi keuntungan dan risiko investasi properti.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Grafik pertumbuhan nilai properti",
+          "tags": "properti;investasi;keuntungan"
+        },
+        {
+          "articleId": "01J4RDVEMHRT8MAG3MSDWBYAEC",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Tips Menabung Cepat untuk DP Rumah",
+          "content": "Memiliki dana DP yang cukup adalah langkah pertama untuk memiliki rumah. Artikel ini akan memberikan tips-tips efektif untuk menabung secara cepat.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Celengan berisi uang logam",
+          "tags": "tabungan;DP;rumah"
+        },
+        {
+          "articleId": "01J4RDVRHPVWE4E004D85CPDGS",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Mengenal KPR Syariah: Kelebihan dan Kekurangannya",
+          "content": "Bagi Anda yang ingin memiliki rumah dengan prinsip syariah, artikel ini akan menjelaskan secara detail tentang KPR syariah.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Ilustrasi rumah dengan kubah masjid",
+          "tags": "KPR;syariah;prinsip"
+        },
+        {
+          "articleId": "01J4RDW20M66S1NRPDS9FVJY0S",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Aspek Hukum yang Perlu Diperhatikan Saat Membeli Rumah",
+          "content": "Sebelum memutuskan membeli rumah, penting untuk memahami aspek hukum yang terkait. Artikel ini akan membahas hal-hal penting yang perlu Anda perhatikan.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Timbangan keadilan",
+          "tags": "hukum;properti;perlindungan"
+        },
+        {
+          "articleId": "01J4RDWBHYRC2K0PJZGY9NGFYV",
+          "makerId": "khosy",
+          "approverId": "eko",
+          "title": "Tips Merawat Rumah Baru Agar Awet",
+          "content": "Memiliki rumah baru adalah kebahagiaan tersendiri. Agar rumah tetap terawat dengan baik, artikel ini akan memberikan tips perawatan yang perlu Anda lakukan.",
+          "imageUrl": "https://dev-bsinet.bankbsi.co.id/image/ic_msm_ils_v3.png",
+          "imageAlt": "Seseorang sedang membersihkan jendela",
+          "tags": "rumah;perawatan;tips"
+        }
+      ]
+    }
+  ]
+}
